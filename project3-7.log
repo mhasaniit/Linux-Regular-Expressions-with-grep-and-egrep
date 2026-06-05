@@ -1,0 +1,482 @@
+Script started on 2025-10-29 09:56:10-05:00 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="70" LINES="37"]
+[?2004h]0;mhasan4@hplaptop: ~/regex_practice[01;32mmhasan4@hplaptop[00m:[01;34m~/regex_practice[00m$ [7mecho "STEP 2"[27m
+[7mgrep "Captain" opus06.txt[27m[A]0;mhasan4@hplaptop: ~/regex_practice[01;32mmhasan4@hplaptop[00m:[01;34m~/regex_practice[00m$ echo "STEP 2"
+grep "Captain" opus06.txt
+[?2004lSTEP 2
+Do you know [01;31m[KCaptain[m[K Fluellen?
+[01;31m[KCaptain[m[K Fluellen!
+[?2004h]0;mhasan4@hplaptop: ~/regex_practice[01;32mmhasan4@hplaptop[00m:[01;34m~/regex_practice[00m$ [7mecho "STEP 3"[27m
+[7mgrep -v "Captain" opus06.txt[27m[A]0;mhasan4@hplaptop: ~/regex_practice[01;32mmhasan4@hplaptop[00m:[01;34m~/regex_practice[00m$ echo "STEP 3"
+grep -v "Captain" opus06.txt
+[?2004lSTEP 3
+Henry V
+By William Shakespeare
+
+### **ACT IV, SCENE I — The English Camp at Agincourt, Night**
+
+**[Enter KING HENRY and GLOUCESTER]**
+
+**KING HENRY:**
+Gloucester, it’s true—we’re in great danger.
+All the more reason our courage should be greater.
+
+**[Enter BEDFORD]**
+
+Good morning, brother Bedford. — Gracious heaven!
+There’s some goodness even in bad things,
+if people would only look for it.
+Our troublesome neighbor (the French) keeps us alert and early rising,
+which is healthy and productive.
+So, we can draw honey even from weeds—
+and find a moral lesson in the devil himself.
+
+**[Enter ERPINGHAM]**
+
+Good morning, old Sir Thomas Erpingham.
+A soft pillow would suit that white head of yours
+better than a hard French field.
+
+**ERPINGHAM:**
+Not so, my liege. I like this bed better,
+for now I can say, “Here I lie like a king.”
+
+**KING HENRY:**
+Lend me your cloak, Sir Thomas. — Brothers,
+send my greetings to the other princes in camp.
+Wish them good morning from me,
+and ask them to come to my tent soon.
+
+**GLOUCESTER:**
+We will, my liege.
+**[Gloucester and Bedford exit]**
+
+**ERPINGHAM:**
+Shall I stay with you, Your Grace?
+
+**KING HENRY:**
+No, good knight. Go with my brothers
+and the rest of the lords.
+I need a moment alone
+to talk with my own thoughts.
+
+**ERPINGHAM:**
+Heaven bless you, noble Harry!
+**[Exits]**
+
+**KING HENRY:**
+Thank you, old heart! You speak cheerfully.
+
+**[Enter PISTOL]**
+
+**PISTOL:**
+Who goes there?
+
+**KING HENRY:**
+A friend.
+
+**PISTOL:**
+Tell me, are you an officer,
+or just a common soldier?
+
+**KING HENRY:**
+I’m a gentleman serving in a company.
+
+**PISTOL:**
+Do you carry a pike?
+
+**KING HENRY:**
+I do. What about you?
+
+**PISTOL:**
+I’m as good a gentleman as the emperor.
+
+**KING HENRY:**
+Then you’re better than the king.
+
+**PISTOL:**
+The king’s a fine fellow—a heart of gold!
+Full of life and fame,
+born of good parents and strong of fist.
+I’d kiss his dirty shoe,
+and from my heart I love that noble man.
+What’s your name?
+
+**KING HENRY:**
+Harry *le Roi.*
+
+**PISTOL:**
+*Le Roi?* That’s Cornish! You from Cornwall?
+
+**KING HENRY:**
+No, I’m Welsh.
+
+**PISTOL:**
+
+**KING HENRY:**
+Yes.
+
+**PISTOL:**
+Tell him I’ll bash his head with his own leek
+on Saint David’s Day.
+
+**KING HENRY:**
+Then don’t wear your dagger in your cap that day,
+or he might knock that instead.
+
+**PISTOL:**
+Are you his friend?
+
+**KING HENRY:**
+And his relative too.
+
+**PISTOL:**
+Then the fig to you!
+
+**KING HENRY:**
+Thanks. Heaven be with you.
+
+**PISTOL:**
+My name’s Pistol.
+**[Exits]**
+
+**KING HENRY:**
+That name suits his fiery temper.
+
+**[Enter FLUELLEN and GOWER]**
+
+**GOWER:**
+
+**FLUELLEN:**
+Quiet, man! Speak softly!
+It’s a terrible thing when the ancient rules of war
+aren’t kept. Look at Pompey the Great—
+you’ll find no gossip or idle chatter in his camp.
+
+**GOWER:**
+But the enemy’s been noisy all night.
+
+**FLUELLEN:**
+If the enemy’s a fool and a braggart,
+should we be fools and braggarts too?
+Use your conscience, man.
+
+**GOWER:**
+I’ll speak more quietly.
+
+**FLUELLEN:**
+Please do. I beg you.
+**[They exit]**
+
+**KING HENRY:**
+Though he seems old-fashioned,
+there’s great care and courage in that Welshman.
+
+**[Enter BATES and WILLIAMS]**
+
+**WILLIAMS:**
+Brother Bates, isn’t that the morning breaking over there?
+
+**BATES:**
+I think so. But we’ve little reason to wish for daylight.
+
+**WILLIAMS:**
+We may see the dawn,
+but I doubt we’ll see its end. — Who goes there?
+
+**KING HENRY:**
+A friend.
+**[He approaches]**
+
+**WILLIAMS:**
+Under whose command do you serve?
+
+**KING HENRY:**
+Under Sir Thomas Erpingham.
+
+**WILLIAMS:**
+A good old commander, and kind man.
+What does he think of our situation?
+
+**KING HENRY:**
+He thinks we’re like sailors stranded on a sandbar,
+waiting to be washed away by the next tide.
+
+**BATES:**
+Has he said that to the king?
+
+**KING HENRY:**
+No, and it wouldn’t be right to.
+For though I’ll tell you this —
+I think the king is only a man like me.
+The violet smells the same to him as to me;
+the air feels the same;
+his senses are just human.
+So when he faces fear,
+he feels it as we do.
+But he must never show it —
+for if he did, it would weaken the army.
+
+**BATES:**
+He may look brave,
+but I’ll bet, on this cold night,
+he’d rather be up to his neck in the Thames.
+And so would I, if it meant we could go home.
+
+**KING HENRY:**
+Honestly, I think the king would not wish himself anywhere else.
+
+**BATES:**
+Then I wish he were here alone!
+At least he’d be ransomed,
+and many poor souls would be saved.
+
+**KING HENRY:**
+I think you don’t hate him,
+you just want to see how others feel.
+For my part, I could die happily in his company,
+knowing his cause is just and his quarrel honorable.
+
+**WILLIAMS:**
+That’s more than we know.
+
+**BATES:**
+Or should ask.
+It’s enough to know we’re his subjects.
+If his cause is wrong, our obedience wipes away our guilt.
+
+**WILLIAMS:**
+But if the cause is wrong,
+the king has a heavy reckoning to make.
+All those dead soldiers—arms, legs, and heads—
+will rise on Judgment Day and cry,
+“We died there!”
+Some swearing, some calling for surgeons,
+some thinking of wives and children left behind.
+Few die well in battle, I think.
+If they die unprepared, the fault lies with the king who led them.
+
+**KING HENRY:**
+If a merchant’s son dies sinfully at sea,
+is the father to blame for sending him?
+Of course not.
+The king is not responsible for how each man dies,
+any more than a father for his son’s fate.
+Each man owes duty to his king,
+but his soul is his own.
+So every soldier should cleanse his conscience,
+like a sick man preparing for death.
+If he dies, he gains heaven;
+if he lives, the preparation was still worth it.
+
+**WILLIAMS:**
+True — whoever dies in sin, it’s on his own head,
+not the king’s.
+
+**BATES:**
+I don’t want the king to answer for me,
+but I’ll fight bravely for him.
+
+**KING HENRY:**
+I heard the king swear he would never be ransomed.
+
+**WILLIAMS:**
+He said that to keep our spirits up.
+When we’re dead, he can be ransomed for all we know.
+
+**KING HENRY:**
+If that happens, I’ll never trust his word again.
+
+**WILLIAMS:**
+That’s an empty threat!
+You might as well try to freeze the sun with a feather fan.
+It’s foolish to say such a thing.
+
+**KING HENRY:**
+You speak rather boldly!
+I’d be angry if the time were right.
+
+**WILLIAMS:**
+Then let’s make it a quarrel for later—if you live.
+
+**KING HENRY:**
+Agreed.
+
+**WILLIAMS:**
+How will I know you again?
+
+**KING HENRY:**
+Give me something of yours, and I’ll wear it in my hat.
+If you see it later, you can challenge me.
+
+**WILLIAMS:**
+Here’s my glove. Give me one of yours.
+
+**KING HENRY:**
+There. Take it.
+
+**WILLIAMS:**
+I’ll wear this in my cap.
+If you come to me after tomorrow and say,
+“This is my glove,”
+I’ll hit you across the face.
+
+**KING HENRY:**
+If I live, I’ll hold you to that.
+
+**WILLIAMS:**
+You wouldn’t dare.
+
+**KING HENRY:**
+I would, even if you stood beside the king himself.
+
+**WILLIAMS:**
+Keep your word, then. Farewell.
+
+**BATES:**
+Come, be friends, you English fools.
+We’ve got enough quarrels with the French as it is.
+**[They exit]**
+
+**KING HENRY:**
+Everything on the king!
+Our lives, our souls, our sins—
+all laid on the king!
+What a hard fate to be born great,
+to bear every fool’s breath and blame.
+Private men have peace of heart—
+but kings, only ceremony.
+What are you, ceremony?
+Nothing but rank and form,
+that makes others fear you,
+but leaves you less happy than they.
+You drink not true respect,
+but poisoned flattery.
+Be sick, great greatness—
+can ceremony cure you?
+Can it command health
+like it commands a beggar’s knee?
+No, you proud illusion—
+I see through you.
+It’s not the crown, or sceptre, or sword,
+or throne, or glory of the world—
+none of these can bring a king
+the sleep of a poor man,
+who, with a full belly and an empty mind,
+lies down to rest after a hard day’s work.
+But for ceremony,
+such a man would live better than a king.
+
+**[Enter ERPINGHAM]**
+
+**ERPINGHAM:**
+My lord, your nobles are worried by your absence.
+They’re searching the camp for you.
+
+**KING HENRY:**
+Good old knight, gather them all at my tent.
+I’ll be there soon.
+**[Hands him back the cloak]**
+
+**ERPINGHAM:**
+I’ll do it, my lord.
+**[Exits]**
+
+**KING HENRY:**
+O God of battles!
+Strengthen my soldiers’ hearts.
+Take away their fear,
+and blind them to the enemy’s numbers,
+lest they lose courage.
+Not today, O Lord! Not today,
+think not on my father’s sin
+in seizing the crown!
+I’ve reburied Richard’s body,
+and wept more tears of repentance
+than drops of blood were shed.
+I pay five hundred poor men each year
+to pray for mercy on that blood.
+I’ll do even more—
+
+**[A trumpet sounds]**
+
+The day has come.
+My friends and all things wait for me.
+**[Exits]**
+
+
+[?2004h]0;mhasan4@hplaptop: ~/regex_practice[01;32mmhasan4@hplaptop[00m:[01;34m~/regex_practice[00m$ [7mecho "STEP 4"[27m
+[7mgrep "captain" opus06.txt[27m
+[7mgrep -i "captain" opus06.txt[27m[A[A]0;mhasan4@hplaptop: ~/regex_practice[01;32mmhasan4@hplaptop[00m:[01;34m~/regex_practice[00m$ echo "STEP 4"
+grep "captain" opus06.txt
+grep -i "captain" opus06.txt
+[?2004lSTEP 4
+Do you know [01;31m[KCaptain[m[K Fluellen?
+[01;31m[KCaptain[m[K Fluellen!
+[?2004h]0;mhasan4@hplaptop: ~/regex_practice[01;32mmhasan4@hplaptop[00m:[01;34m~/regex_practice[00m$ [7mecho "STEP 5"[27m
+[7mgrep " I " opus01.txt[27m
+[7mgrep "^I" opus01.txt[27m
+[7mgrep "^I " opus01.txt[27m[A[A[A]0;mhasan4@hplaptop: ~/regex_practice[01;32mmhasan4@hplaptop[00m:[01;34m~/regex_practice[00m$ echo "STEP 5"
+grep " I " opus01.txt
+grep "^I" opus01.txt
+grep "^I " opus01.txt
+[?2004lSTEP 5
+And sorry[01;31m[K I [m[Kcould not travel both
+And be one traveller, long[01;31m[K I [m[Kstood
+And looked down one as far as[01;31m[K I [m[Kcould
+Oh,[01;31m[K I [m[Kkept the first for another day!
+I doubted if[01;31m[K I [m[Kshould ever come back.
+[01;31m[KI[m[Kn leaves no step had trodden black.
+[01;31m[KI[m[K doubted if I should ever come back.
+[01;31m[KI[m[K shall be telling this with a sigh
+[01;31m[KI[m[K took the one less travelled by,
+[01;31m[KI [m[Kdoubted if I should ever come back.
+[01;31m[KI [m[Kshall be telling this with a sigh
+[01;31m[KI [m[Ktook the one less travelled by,
+[?2004h]0;mhasan4@hplaptop: ~/regex_practice[01;32mmhasan4@hplaptop[00m:[01;34m~/regex_practice[00m$ [7mecho "STEP 6"[27m
+[7mgrep "t.e" opus03.txt[27m
+[7mgrep "w...e" opus03.txt[27m[A[A]0;mhasan4@hplaptop: ~/regex_practice[01;32mmhasan4@hplaptop[00m:[01;34m~/regex_practice[00m$ echo "STEP 6"
+grep "t.e" opus03.txt
+grep "w...e" opus03.txt
+[?2004lSTEP 6
+  The ship has wea[01;31m[Kthe[m[Kr’d every rack, [01;31m[Kthe[m[K prize we sought is won,
+  The port is near, [01;31m[Kthe[m[K bells I hear, [01;31m[Kthe[m[K people all exulting,
+  While follow eyes [01;31m[Kthe[m[K steady keel, [01;31m[Kthe[m[K vessel grim and daring;
+       O [01;31m[Kthe[m[K bleeding drops of red,
+         Where on [01;31m[Kthe[m[K deck my Captain lies,
+  O Captain! my Captain! rise up and hear [01;31m[Kthe[m[K bells;
+  Rise up--for you [01;31m[Kthe[m[K flag is flung--for you [01;31m[Kthe[m[K bugle trills,
+  For you bouquets and ribbon’d wreaths--for you [01;31m[Kthe[m[K shores a-crowding,
+  For you [01;31m[Kthe[m[Ky call, [01;31m[Kthe[m[K swaying mass, [01;31m[Kthe[m[Kir eager faces turning;
+      Here Captain! dear fa[01;31m[Kthe[m[Kr!
+         It is some dream that on [01;31m[Kthe[m[K deck,
+  My fa[01;31m[Kthe[m[Kr does not feel my arm, he has no pulse nor will,
+  From fearful trip [01;31m[Kthe[m[K victor ship comes in with object won;
+         But I with mournful [01;31m[Ktre[m[Kad,
+           Walk [01;31m[Kthe[m[K deck my Captain lies,
+  While follo[01;31m[Kw eye[m[Ks the steady keel, the vessel grim and daring;
+[?2004h]0;mhasan4@hplaptop: ~/regex_practice[01;32mmhasan4@hplaptop[00m:[01;34m~/regex_practice[00m$ [7mecho "STEP 7"[27m
+[7mgrep "(wood|road)" opus01.txt[27m
+[7megrep "(wood|road)" opus01.txt[27m[A[A]0;mhasan4@hplaptop: ~/regex_practice[01;32mmhasan4@hplaptop[00m:[01;34m~/regex_practice[00m$ echo "STEP 7"
+grep "(wood|road)" opus01.txt
+egrep "(wood|road)" opus01.txt
+[?2004lSTEP 7
+Two [01;31m[Kroad[m[Ks diverged in a yellow [01;31m[Kwood[m[K,
+Two [01;31m[Kroad[m[Ks diverged in a [01;31m[Kwood[m[K, and I—-
+[?2004h]0;mhasan4@hplaptop: ~/regex_practice[01;32mmhasan4@hplaptop[00m:[01;34m~/regex_practice[00m$ [7mecho "STEP 8"[27m
+[7mgrep "wall$" opus03.txt[27m
+[7mgrep "?$" opus03.txt[27m
+[7mgrep "^$" opus03.txt[27m[A[A[A]0;mhasan4@hplaptop: ~/regex_practice[01;32mmhasan4@hplaptop[00m:[01;34m~/regex_practice[00m$ echo "STEP 8"
+grep "wall$" opus03.txt
+grep "?$" opus03.txt
+grep "^$" opus03.txt
+[?2004lSTEP 8
+
+
+
+[?2004h]0;mhasan4@hplaptop: ~/regex_practice[01;32mmhasan4@hplaptop[00m:[01;34m~/regex_practice[00m$ [7mecho "STEP 9"[27m
+[7mexit[27m[A]0;mhasan4@hplaptop: ~/regex_practice[01;32mmhasan4@hplaptop[00m:[01;34m~/regex_practice[00m$ echo "STEP 9"
+exit
+[?2004lSTEP 9
+exit
+
+Script done on 2025-10-29 09:57:07-05:00 [COMMAND_EXIT_CODE="0"]
